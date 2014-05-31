@@ -17,6 +17,6 @@ public class Main {
 
 		StaticHuffman<String> huffman = new StaticHuffman<String>(values);
 
-		System.out.println(huffman.getCodeForValue("d"));
+		System.out.println(huffman.getCodeForValue("c"));
 	}
 }
